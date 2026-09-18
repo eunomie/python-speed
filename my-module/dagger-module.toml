@@ -1,0 +1,5 @@
+name = "my-module"
+
+[entrypoint]
+  kind = "dang"
+  source = "./sdk/entrypoint"
